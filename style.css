@@ -159,7 +159,7 @@
 }
 
 /* Completed */
-.task-list__task-title_completed {
+.task-list_completed .task-list__task-title {
   text-decoration: line-through;
   color: #888;
 }
